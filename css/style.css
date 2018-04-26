@@ -1,0 +1,48 @@
+.clearfix{clear:both;}
+body{padding: 0px 10px 0 0;}
+ul{list-style: none; margin: 0px; padding: 0px;}
+.navigation{background-color: #e5eff1; float: right; margin: 0 10px 0 0;}
+.list li{float: left; padding: 10px 20px; font-size: 10px; color: black; font-weight: bold;}
+.banner{background-color: white;}
+.banner img{width: 1343px;  height: 319px}
+.container{background-color: white;}
+.container img{width: 1343px; height: 300px;}
+.professional{ background: #f9f9f9; background-image: url("../images/sideimage.png") ; width: 1343px; height: 400px; background-repeat: no-repeat; background-position: right; background-size: 670px 400px;}
+.skills{padding: 109px 118px;}
+.title{font-weight: bold; font-size: 25px; padding: 15px 0px;}
+.border{display: table; width: 100%; padding: 3px; border: 0.5px solid #d8d8d8;}
+.fill{display: table-cell; width: 250px; background-color: #0fcac3; padding: 3px; margin: 10px 0px; 	border: 0.5px solid #d8d8d8;}
+.border{padding: 3px 15px; background: url("../images/backPercent"); background-repeat: no-repeat; size: 300px 100px;}
+.marketing{padding: 10px 0px;}
+.projects{background-color: #10c9c3; width: 1343px; height: 200px;}
+.icons{padding: 80px 116px;}
+.firsticon{float: left;}
+.briefcase{width: 250px; height: 100px; float: left;}
+.briefimag img{float: left;}
+.num{float: right; position: relative; bottom: 55px; padding: 0px 139px 0px 0px; color: white;}
+.text{float: right; position: relative; bottom: 53px; padding: 3px 37px 0px 0px;  color: white;}
+.secondicon{float: left;   position: relative; left: 50px;}
+.clock{width: 250px; height: 100px; float: left;}
+.other{float: right; position: relative; margin-right: 10px;}
+.working{float: right;  position: relative; margin-right: 44px;}
+.third{float: left; position: relative; bottom: 15px; left: 60px;}
+.star{width: 250px; height: 100px; float: left;}
+.gesture{float: right;  color: white;  position: relative; bottom: 70px;  padding: 0px 135px 0px 0px;}
+.positive{float: right; color: white; position: relative; bottom: 65px;  padding: 0px 41px 0px 0px;}	 
+.fourth{float: left; position: relative; bottom: 20px;  left: 100px;}
+.heart{width: 250px; height: 100px; float: left;}
+.last{float: right;  color: white;  position: relative; bottom: 72px; padding: 0px 144px 0px 0px;}
+.happy{float: right; color: white; position: relative; bottom: 68px;  padding: 0px 74px 0px 0px;}
+.honey{width:1343px;}
+.one{float: left;}
+.one img{width: 335.75px; height: 300px;}
+.five{float: left;}
+.five img{width: 335.75px; 	height: 300px; border: 0px; padding: 0px; margin-top: -4px;}
+.load{background-color: #f5f5f5; width: 1343px; margin-top: -4px;}
+.more{font-weight: bold; font-size: 15px; text-align: center; padding:20px 0px; color: black; }
+.process{width: 1343px;}
+.our{padding: 80px 0px;}
+.form{text-align: center; font-size: 20px; font-weight: bold; color: #1a1a1a;}
+.season{text-align: center; font-size: 15px; padding: 20px 0px; color: #a2a2a2;}
+.cat{text-align: center;} 
+.cat img{width: 1000px; margin-top: -50px;}
