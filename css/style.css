@@ -1,7 +1,7 @@
 .clearfix{clear:both;}
 body{padding: 0px 10px 0 0;}
 ul{list-style: none; margin: 0px; padding: 0px;}
-.navigation{background-color: #e5eff1; float: right; margin: 0 10px 0 0;}
+.navigation{background-color: #e5eff1; float: left; margin: 0 10px 0 0;}
 .list li{float: left; padding: 10px 20px; font-size: 10px; color: black; font-weight: bold;}
 .banner{background-color: white;}
 .banner img{width: 1343px;  height: 319px}
@@ -10,9 +10,9 @@ ul{list-style: none; margin: 0px; padding: 0px;}
 .professional{ background: #f9f9f9; background-image: url("../images/sideimage.png") ; width: 1343px; height: 400px; background-repeat: no-repeat; background-position: right; background-size: 670px 400px;}
 .skills{padding: 109px 118px;}
 .title{font-weight: bold; font-size: 25px; padding: 15px 0px;}
-.border{display: table; width: 100%; padding: 3px; border: 0.5px solid #d8d8d8;}
-.fill{display: table-cell; width: 250px; background-color: #0fcac3; padding: 3px; margin: 10px 0px; 	border: 0.5px solid #d8d8d8;}
-.border{padding: 3px 15px; background: url("../images/backPercent"); background-repeat: no-repeat; size: 300px 100px;}
+.border{background: url("../images/backPercent.jpg"); width: 300px; height: 1px; background-repeat: no-repeat; background-size: 230px 100px; padding: 2px 10px; border: 1px solid #d8d8d8;}
+.borderb{background: url("../images/backPercent.jpg"); width: 300px; height: 1px; background-repeat: no-repeat; background-size: 280px 100px; padding: 2px 10px; border: 1px solid #d8d8d8;}
+.borderc{background: url("../images/backPercent.jpg"); width: 300px; height: 1px; background-repeat: no-repeat; background-size: 170px 100px; padding: 2px 10px; border: 1px solid #d8d8d8;}
 .marketing{padding: 10px 0px;}
 .projects{background-color: #10c9c3; width: 1343px; height: 200px;}
 .icons{padding: 80px 116px;}
@@ -21,7 +21,7 @@ ul{list-style: none; margin: 0px; padding: 0px;}
 .briefimag img{float: left;}
 .num{float: right; position: relative; bottom: 55px; padding: 0px 139px 0px 0px; color: white;}
 .text{float: right; position: relative; bottom: 53px; padding: 3px 37px 0px 0px;  color: white;}
-.secondicon{float: left;   position: relative; left: 50px;}
+.secondicon{float: left; position: relative; left: 50px;}
 .clock{width: 250px; height: 100px; float: left;}
 .other{float: right; position: relative; margin-right: 10px;}
 .working{float: right;  position: relative; margin-right: 44px;}
@@ -44,5 +44,37 @@ ul{list-style: none; margin: 0px; padding: 0px;}
 .our{padding: 80px 0px;}
 .form{text-align: center; font-size: 20px; font-weight: bold; color: #1a1a1a;}
 .season{text-align: center; font-size: 15px; padding: 20px 0px; color: #a2a2a2;}
-.cat{text-align: center;} 
+.cat{text-align: center; padding-bottom: 50px;} 
 .cat img{width: 1000px; margin-top: -50px;}
+.innerContent{width: 1343px; height: 400px;}
+.box{float: left; width: 25%; height: 50%; box-sizing: border-box; text-align: center; padding: 10px 0px; background: #f5f5f5;}
+.god{font-weight: bold; font-size: 12px;}
+.second{font-size: 12px;}
+.outstanding{background: #10c9c3; width: 1343px; height: 300px;}
+.size{text-align: center; padding: 120px 0px; font-size: 20px; color: white;}
+.brands{width: 1343px; height: 100px; padding: 40px 0px;}
+.width25{width: 20%; text-align: center; float: left;}
+.ProjectDetails{width: 1343px; height: 400px; background: #f5f5f5;}
+.start{width: 1343px; background: #f5f5f5; text-align: center; padding: 80px 0px;}
+.need{color: #1d1d1d; font-weight: bold; font-size: 20px;}
+.look{color: #969696; font-size: 15px; padding: 10px 0px;}
+.horizon{width: 350px; margin: 0px auto; text-align: center;}
+.aunth{width: 150px;  height: 18px; float: left; background: #ffffff;}
+.mail{width: 150px; height: 18px; float: right; background: #ffffff;}
+.mount{width: 346px; height: 18px; float: left; background: #ffffff;}
+.agency{position: relative; top: 10px;}
+.ccc{width: 346px; height: 150px; float: left; background: #ffffff;}
+.conv{position: relative; top: 20px;}
+.footer{width: 1343px; height: 200px; background: black;}
+.parta{width: 1300px;}
+.insideOfparta{width: 30%; padding: 70px 30px; float: left;}
+.in{color: white; font-weight: bold; }	
+.all{color: white; padding: 15px 0px;}
+.ama{float: left; padding: 70px 130px;}
+.hello{color: white;}
+.about{float: left; padding: 70px 20px;}
+.footerNavigation{color: white;}
+.legals{float: left; padding: 70px 10px;}
+.secondNav{color: white;}
+.lastFooter{float: left; padding: 70px 50px;}
+.thirdNav{color: white;}
